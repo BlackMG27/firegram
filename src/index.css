@@ -33,7 +33,11 @@ body{
 
 
 /* progress bar styles */
-
+.progress-bar{
+  height: 6px;
+  background: var(--primary);
+  margin-top: 15px;
+}
 
 /* image grid styles */
 
