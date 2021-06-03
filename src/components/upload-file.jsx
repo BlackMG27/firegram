@@ -23,7 +23,7 @@ const UploadForm = () => {
     
     return(
         <form>
-            <label htmlFor="file" className="upload__label">
+            <label>
             <input 
                 type="file" 
                 name="file"
